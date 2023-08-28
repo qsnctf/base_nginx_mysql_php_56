@@ -31,4 +31,5 @@ if ($result->num_rows > 0) {
 
 // 关闭数据库连接
 $conn->close();
+phpinfo();
 ?>
